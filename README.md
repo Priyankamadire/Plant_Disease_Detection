@@ -11,6 +11,7 @@ AND ALSO RESEARCHES WILL ALWAYS UPDATE AND TWEET U ABOUT THE NEW DISEASES CAN TH
 
 ![Screenshot 2023-07-21 012954](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/a018421f-8b14-47e3-8a9d-91a710a58069)
 ![Screenshot 2023-07-21 013020](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/d1d28595-aab4-42ec-9363-0b1b6dfad825)
+![Screenshot 2023-07-21 012954](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/a018421f-8b14-47e3-8a9d-91a710a58069)
 ![Screenshot 2023-07-21 013434](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/ce5cba39-4675-4530-ae95-4f86624907c1)
 
 
