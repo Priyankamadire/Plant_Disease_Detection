@@ -1,1 +1,1 @@
-# Plantdiseasedetectioon
+# Plantdiseasedetection
