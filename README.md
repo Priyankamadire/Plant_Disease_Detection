@@ -1,12 +1,14 @@
 # Plantdiseasedetection
-THIS ARE SOME OF THE SLIDES OF MY PROJECT
+THIS PROJECT IS VERY USEFUL TO CHECK THE PLANT DISEASE AND PREDICT DISEASE SO THAT WITH GIVEN TREATMENT U CAN SAVE YOUR CROP HEALTH AND MAINTAIN VERY GOOD HEALTH OF UR PLANTS...
+AND ALSO RESEARCHES WILL ALWAYS UPDATE AND TWEET U ABOUT THE NEW DISEASES CAN THAT U CAN TAKE PRECAUTIONS AND PROTECT UR PLANT FROM HARMFUL DISEASES...
 
 ![1](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/3410d2c0-abf9-45aa-996c-f885d0b5242d)
 
 ![2](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/e0a84905-c46c-49b9-bdea-8210df8a7836)
 ![Screenshot 2023-07-21 012801](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/1b3fb724-8adf-41fc-921a-a4a24824cb9d)
 ![Screenshot 2023-07-21 012834](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/433ce47c-2c4f-4944-8d18-9cf0baa52887)
-![Screenshot 2023-07-21 012859](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/d905aaeb-2340-4e11-9
+![Screenshot 2023-07-21 013020](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/d1d28595-aab4-42ec-9363-0b1b6dfad825)
+
 ![Screenshot 2023-07-21 012954](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/a018421f-8b14-47e3-8a9d-91a710a58069)
 06f-417aecf24fae)
 ![Screenshot 2023-07-21 013020](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/a2f7e94f-d
