@@ -7,13 +7,12 @@ AND ALSO RESEARCHES WILL ALWAYS UPDATE AND TWEET U ABOUT THE NEW DISEASES CAN TH
 ![2](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/e0a84905-c46c-49b9-bdea-8210df8a7836)
 ![Screenshot 2023-07-21 012801](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/1b3fb724-8adf-41fc-921a-a4a24824cb9d)
 ![Screenshot 2023-07-21 012834](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/433ce47c-2c4f-4944-8d18-9cf0baa52887)
-![Screenshot 2023-07-21 013020](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/d1d28595-aab4-42ec-9363-0b1b6dfad825)
+
 
 ![Screenshot 2023-07-21 012954](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/a018421f-8b14-47e3-8a9d-91a710a58069)
-06f-417aecf24fae)
-![Screenshot 2023-07-21 013020](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/a2f7e94f-d
+![Screenshot 2023-07-21 013020](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/d1d28595-aab4-42ec-9363-0b1b6dfad825)
 ![Screenshot 2023-07-21 013434](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/ce5cba39-4675-4530-ae95-4f86624907c1)
-952-4def-81b7-249174549212)
+
 
 ![Screenshot 2023-07-21 013113](https://github.com/Priyankamadire/Plant_Disease_Detection/assets/108828579/ac8e4030-d5e1-45ad-99a9-041101ac8bf3)
 
